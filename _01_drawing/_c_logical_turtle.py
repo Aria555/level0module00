@@ -30,7 +30,7 @@ def turtle_clicked(x, y):
         # the color of the turtle,
         thing.color('yellow')
         thing.pencolor('orange')
-        thing.turtlesize(stretch_wid=10, stretch_len=10, outline=4)
+        thing.turtlesize(stretch_wid=10, stretch_len=5, outline=4)
         # myTurtle.color(get_random_color())
 
 
