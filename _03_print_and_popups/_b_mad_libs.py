@@ -17,7 +17,7 @@ if __name__ == '__main__':
     # Get the player to enter a body part
     body=simpledialog.askstring(title='MadLips', prompt="name a body part")
     # Get the player to enter a verb
-    verb=simpledialog.askstring(title='MadLips',prompt="name a verb")
+    verb=simpledialog.askstring(title='MadLips', prompt="name a verb")
     # Get the player to enter a place
     place=simpledialog.askstring(title='MadLips', prompt="name a place")
     # The story below has has been written as a group of Strings joined
