@@ -28,8 +28,7 @@ if __name__ == '__main__':
     if(last=="true"):
         score+=1
     # After all the questions have been asked, tell the user their final score
-    messagebox.showinfo(message=score)
-    # remember to convert your variable to a string using the str() function 
-    
+    messagebox.showinfo()
+    # remember to convert your variable to a string using the str() function
     # Run the window's .mainloop() method
     window.mainloop()
